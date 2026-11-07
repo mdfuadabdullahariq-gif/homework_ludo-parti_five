@@ -290,5 +290,3 @@ body {
 .d2 { width: 70%; height: 70%; background: black; clip-path: inherit; display: grid; place-items: center; }
 .d3 { width: 60%; height: 60%; background: green; clip-path: inherit; }
  
-/* little hover touch */
-.pati:hover { transform: rotate(-.6deg); transition: transform .3s; }
